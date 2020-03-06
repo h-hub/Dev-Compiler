@@ -1,0 +1,28 @@
+.menu-item {
+    background-color: #290CAF;
+}
+
+.menu-item a {
+    color: #45F0DF;
+}
+
+.menu-item .card-body {
+    min-height: 120px;
+}
+
+::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #290CAF;
+    opacity: 1;
+    /* Firefox */
+}
+
+ :-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #290CAF;
+}
+
+ ::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: #290CAF;
+}

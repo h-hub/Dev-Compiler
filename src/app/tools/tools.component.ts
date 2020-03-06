@@ -14,7 +14,7 @@ export class ToolsComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  ToBinary (value) {
+  ToBinary(value) {
     return Number(value).toString(2);
   }
 
